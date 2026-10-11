@@ -1,0 +1,8 @@
+:HL["/best-guide-app/_next/static/chunks/2ji5vefyrw6a-.css","style"]
+:HL["/best-guide-app/_next/static/chunks/1q8j7d_a-fq0-.css","style"]
+:HL["/best-guide-app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/best-guide-app/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"routeId","t":"d","k":"medellin-esencial","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"recorrido","h":131168,"c":"$Q2"}]]
+0:{"b":"7RNRhCGOF6DeewQcrqhJs","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
